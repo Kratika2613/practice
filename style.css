@@ -1,0 +1,825 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+.main-page-Jma {
+    align-items: center;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+  
+    .auto-group-gusx-9XJ {
+      flex-shrink: 0;
+      height: 186.9rem;
+      margin-bottom: 5.7rem;
+      position: relative;
+      width: 158.9rem;
+  
+      .galileo-design-wjz {
+        background-color: #ffffff;
+        height: 180rem;
+        left: 0;
+        position: absolute;
+        top: 6.9rem;
+        width: 128rem;
+      }
+      .depth-0-frame-0-SAx {
+        background-color: #f9f9f9;
+        height: 180rem;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 158.8rem;
+  
+        .depth-1-frame-0-N4c {
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          height: 164.0438rem;
+          width: 100%;
+  
+          .depth-2-frame-0-5ji {
+            align-items: center;
+            border: solid 0.1rem #e5e8ea;
+            box-sizing: border-box;
+            display: flex;
+            flex-shrink: 0;
+            height: 6.5rem;
+            margin: 0rem 30.8rem 3.6rem 0rem;
+            padding: 1.25rem 4rem;
+            width: calc(100% - 30.8rem);
+  
+            .depth-4-frame-0-9zU {
+              align-items: center;
+              display: flex;
+              flex-shrink: 0;
+              height: calc(100% - 1.7rem);
+              margin: 0.875rem 51.8rem 0.825rem 0rem;
+  
+              .depth-5-frame-0-59N {
+                flex-shrink: 0;
+                height: 3.9rem;
+                margin: 0rem 1.6rem 0.05rem 0rem;
+                object-fit: contain;
+                vertical-align: top;
+                width: 3.9rem;
+              }
+              .aceprep-9Q8 {
+                color: #1c1c21;
+                flex-shrink: 0;
+                font-family: Public Sans, 'Source Sans Pro';
+                font-size: 1.8rem;
+                font-weight: 700;
+                letter-spacing: -0.027rem;
+                line-height: 1.25;
+                white-space: nowrap;
+              }
+            }
+            .depth-3-frame-1-SPE {
+              align-items: center;
+              display: flex;
+              flex-shrink: 0;
+              height: 100%;
+  
+              .depth-4-frame-0-bX2 {
+                align-items: center;
+                display: flex;
+                flex-shrink: 0;
+                height: calc(100% - 1.9rem);
+                margin: 0.95rem 3.166rem 0.95rem 0rem;
+  
+                .home-WP6 {
+                  color: #1c1c21;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.4rem;
+                  font-weight: 500;
+                  line-height: 1.5;
+                  margin-right: 3.5797rem;
+                  white-space: nowrap;
+                }
+                .practice-DYQ {
+                  color: #1c1c21;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.4rem;
+                  font-weight: 500;
+                  line-height: 1.5;
+                  margin-right: 3.5125rem;
+                  white-space: nowrap;
+                }
+                .mock-ik4 {
+                  color: #1c1c21;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.4rem;
+                  font-weight: 500;
+                  line-height: 1.5;
+                  margin-right: 3.5844rem;
+                  white-space: nowrap;
+                }
+                .resources-TSk {
+                  color: #1c1c21;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.4rem;
+                  font-weight: 500;
+                  line-height: 1.5;
+                  margin-right: 3.5781rem;
+                  white-space: nowrap;
+                }
+                .ats-BtY {
+                  color: #1c1c21;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.4rem;
+                  font-weight: 500;
+                  line-height: 1.5;
+                  white-space: nowrap;
+                }
+              }
+              .depth-4-frame-1-Kjr {
+                align-items: center;
+                display: flex;
+                flex-shrink: 0;
+                height: 100%;
+  
+                .depth-5-frame-0-TLG {
+                  background-color: #607af9;
+                  border-radius: 1.2rem;
+                  box-sizing: border-box;
+                  flex-shrink: 0;
+                  height: 100%;
+                  margin-right: 0.8rem;
+                  overflow: hidden;
+                  padding: 0.95rem 2.088rem 0.95rem 2.112rem;
+                  position: relative;
+                  width: 8.4rem;
+  
+                  .depth-6-frame-0-yJc {
+                    align-items: center;
+                    background-color: #607af9;
+                    color: #f9f9f9;
+                    display: flex;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 1.4rem;
+                    font-weight: 700;
+                    height: 100%;
+                    justify-content: center;
+                    letter-spacing: 0.021rem;
+                    line-height: 1.5;
+                    overflow: hidden;
+                    position: relative;
+                    white-space: nowrap;
+                    width: 100%;
+                  }
+                }
+                .depth-5-frame-1-zjW {
+                  background-color: #edeff2;
+                  border-radius: 1.2rem;
+                  box-sizing: border-box;
+                  flex-shrink: 0;
+                  height: 100%;
+                  overflow: hidden;
+                  padding: 0.95rem 1.58rem 0.95rem 1.6rem;
+                  position: relative;
+                  width: 8.5797rem;
+  
+                  .depth-6-frame-0-iQc {
+                    align-items: center;
+                    background-color: #edeff2;
+                    color: #1c1c21;
+                    display: flex;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 1.4rem;
+                    font-weight: 700;
+                    height: 100%;
+                    justify-content: center;
+                    letter-spacing: 0.021rem;
+                    line-height: 1.5;
+                    overflow: hidden;
+                    position: relative;
+                    white-space: nowrap;
+                    width: 100%;
+                  }
+                }
+              }
+            }
+          }
+          .depth-3-frame-0-MCg {
+            flex-shrink: 0;
+            margin: 0rem 0rem 7.6rem 17.6rem;
+            width: 141.2rem;
+  
+            .depth-6-frame-0-UYC {
+              background: linear-gradient(90deg, rgba(0, 0, 0, 0.1000000015) 0%, rgba(0, 0, 0, 0.400000006) 100%);
+              background-image: url('./Ai2.png');
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: 100% 100%;
+              border-radius: 1.2rem;
+              box-sizing: border-box;
+              height: 48rem;
+              margin-bottom: 5.6rem;
+              overflow: hidden;
+              padding: 36.4rem 5.6rem 2.4rem 5.6rem;
+              position: relative;
+              width: 92.8rem;
+  
+              .depth-9-frame-0-nYt {
+                height: 100%;
+                width: 74.4rem;
+  
+                .land-your-dream-job-with-aceprep-wAt {
+                  color: #ffffff;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 4.8rem;
+                  font-weight: 900;
+                  letter-spacing: -0.1584rem;
+                  line-height: 1.25;
+                  margin-bottom: 0.8rem;
+                  white-space: nowrap;
+                }
+                .prepare-for-interviews-practice-with-experts-and-get-hired-at-top-companies-eb6 {
+                  color: #ffffff;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  white-space: nowrap;
+                }
+              }
+            }
+            .depth-5-frame-0-3NL {
+              display: flex;
+              flex-direction: column;
+              width: 100%;
+  
+              .depth-6-frame-0-o6c {
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                margin-bottom: 4rem;
+                width: 100%;
+  
+                .depth-7-frame-0-wyW {
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  margin-bottom: 7.2rem;
+                  width: 100%;
+  
+                  .our-features-WFv {
+                    color: #1c1c21;
+                    flex-shrink: 0;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 3.6rem;
+                    font-weight: 900;
+                    letter-spacing: -0.1188rem;
+                    line-height: 1.25;
+                    margin-bottom: 1.6rem;
+                    white-space: nowrap;
+                  }
+                  .we-offer-a-range-of-features-to-help-you-prepare-for-interviews-whether-youre-just-getting-started-or-youre-ready-to-take-your-skills-to-the-next-level-we-have-everything-you-need-to-succeed-pXW {
+                    color: #1c1c21;
+                    flex-shrink: 0;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 1.6rem;
+                    font-weight: 400;
+                    line-height: 1.5;
+                    white-space: nowrap;
+                  }
+                }
+                .depth-9-frame-0-HAC {
+                  background-color: #607af9;
+                  border-radius: 1.2rem;
+                  box-sizing: border-box;
+                  flex-shrink: 0;
+                  height: 4.8rem;
+                  overflow: hidden;
+                  padding: 1.2rem 1.983rem 1.2rem 2rem;
+                  position: relative;
+                  width: 12.8828rem;
+  
+                  .depth-10-frame-0-Pyv {
+                    align-items: center;
+                    background-color: #607af9;
+                    color: #f9f9f9;
+                    display: flex;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 1.6rem;
+                    font-weight: 700;
+                    height: 100%;
+                    justify-content: center;
+                    letter-spacing: 0.024rem;
+                    line-height: 1.5;
+                    overflow: hidden;
+                    position: relative;
+                    white-space: nowrap;
+                    width: 100%;
+                  }
+                }
+              }
+              .depth-6-frame-1-fAk {
+                align-items: center;
+                column-gap: 1.2rem;
+                display: flex;
+                flex-shrink: 0;
+                height: 20.3438rem;
+  
+                .depth-7-frame-0-oGx {
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  height: 100%;
+  
+                  .depth-9-frame-0-95v {
+                    border-radius: 1.2rem;
+                    flex-shrink: 0;
+                    height: 12.5438rem;
+                    margin-bottom: 1.2rem;
+                    object-fit: cover;
+                    vertical-align: top;
+                    width: 22.3rem;
+                  }
+                  .depth-8-frame-1-s1v {
+                    display: flex;
+                    flex-direction: column;
+                    flex-shrink: 0;
+  
+                    .study-pxk {
+                      color: #1c1c21;
+                      flex-shrink: 0;
+                      font-family: Public Sans, 'Source Sans Pro';
+                      font-size: 1.6rem;
+                      font-weight: 500;
+                      line-height: 1.5;
+                      white-space: nowrap;
+                    }
+                    .use-our-study-materials-to-get-up-to-speed-on-your-interview-topics-Z9e {
+                      color: #3d3f49;
+                      flex-shrink: 0;
+                      font-family: Public Sans, 'Source Sans Pro';
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.5;
+                      max-width: 21.5rem;
+                    }
+                  }
+                }
+                .depth-7-frame-1-GJx {
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  height: 100%;
+  
+                  .depth-9-frame-0-RBr {
+                    border-radius: 1.2rem;
+                    flex-shrink: 0;
+                    height: 12.5438rem;
+                    margin-bottom: 1.2rem;
+                    object-fit: cover;
+                    vertical-align: top;
+                    width: 22.3rem;
+                  }
+                  .depth-8-frame-1-jyE {
+                    display: flex;
+                    flex-direction: column;
+                    flex-shrink: 0;
+  
+                    .learn-6on {
+                      color: #1c1c21;
+                      flex-shrink: 0;
+                      font-family: Public Sans, 'Source Sans Pro';
+                      font-size: 1.6rem;
+                      font-weight: 500;
+                      line-height: 1.5;
+                      white-space: nowrap;
+                    }
+                    .watch-our-videos-to-learn-the-most-important-concepts-rHA {
+                      color: #3d3f49;
+                      flex-shrink: 0;
+                      font-family: Public Sans, 'Source Sans Pro';
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.5;
+                      max-width: 19rem;
+                    }
+                  }
+                }
+                .depth-7-frame-2-xqz {
+                  align-items: center;
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  height: 100%;
+                  width: 22.3rem;
+  
+                  .depth-9-frame-0-v28 {
+                    border-radius: 1.2rem;
+                    flex-shrink: 0;
+                    height: 12.5438rem;
+                    margin-bottom: 1.2rem;
+                    object-fit: cover;
+                    vertical-align: top;
+                    width: 22.3rem;
+                  }
+                  .depth-8-frame-1-D1E {
+                    display: flex;
+                    flex-direction: column;
+                    flex-shrink: 0;
+                    width: 100%;
+  
+                    .practice-9Qg {
+                      color: #1c1c21;
+                      flex-shrink: 0;
+                      font-family: Public Sans, 'Source Sans Pro';
+                      font-size: 1.6rem;
+                      font-weight: 500;
+                      line-height: 1.5;
+                      white-space: nowrap;
+                    }
+                    .practice-with-real-world-problems-and-get-feedback-from-experts-tdA {
+                      color: #3d3f49;
+                      flex-shrink: 0;
+                      font-family: Public Sans, 'Source Sans Pro';
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.5;
+                      max-width: 22.3rem;
+                    }
+                  }
+                }
+                .depth-7-frame-3-zAQ {
+                  display: flex;
+                  flex-direction: column;
+                  flex-shrink: 0;
+                  height: 100%;
+  
+                  .depth-9-frame-0-kQU {
+                    border-radius: 1.2rem;
+                    flex-shrink: 0;
+                    height: 12.5438rem;
+                    margin-bottom: 1.2rem;
+                    object-fit: cover;
+                    vertical-align: top;
+                    width: 22.3rem;
+                  }
+                  .depth-8-frame-1-HQQ {
+                    display: flex;
+                    flex-direction: column;
+                    flex-shrink: 0;
+  
+                    .read-QV2 {
+                      color: #1c1c21;
+                      flex-shrink: 0;
+                      font-family: Public Sans, 'Source Sans Pro';
+                      font-size: 1.6rem;
+                      font-weight: 500;
+                      line-height: 1.5;
+                      white-space: nowrap;
+                    }
+                    .read-our-articles-to-learn-new-tips-and-tricks-wjr {
+                      color: #3d3f49;
+                      flex-shrink: 0;
+                      font-family: Public Sans, 'Source Sans Pro';
+                      font-size: 1.4rem;
+                      font-weight: 400;
+                      line-height: 1.5;
+                      max-width: 22.1rem;
+                    }
+                  }
+                }
+              }
+            }
+            .auto-group-ljfi-FEk {
+              box-sizing: border-box;
+              display: flex;
+              flex-direction: column;
+              padding-top: 6.8rem;
+              width: 100%;
+  
+              .depth-4-frame-2-o1N {
+                align-items: center;
+                display: flex;
+                flex-shrink: 0;
+                height: 11.2rem;
+                margin-bottom: 3.2rem;
+  
+                .depth-5-frame-0-LGC {
+                  border: solid 0.1rem #d6d6dd;
+                  border-radius: 1.2rem;
+                  box-sizing: border-box;
+                  flex-shrink: 0;
+                  height: 100%;
+                  margin-right: 1.6328rem;
+                  padding: 2.4rem 2.4rem 2.6rem 2.4rem 2.4rem;
+                  width: 29.8672rem;
+  
+                  .total-users-qye {
+                    color: #1c1c21;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 1.6rem;
+                    font-weight: 500;
+                    line-height: 1.5;
+                    text-align: center;
+                    margin-bottom: 0.8rem;
+                    white-space: nowrap;
+                  }
+                  .item-10000-ZPr {
+                    color: #1c1c21;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 2.4rem;
+                    font-weight: 700;
+                    letter-spacing: -0.06rem;
+                    line-height: 1.25;
+                    text-align: center;
+                    white-space: nowrap;
+                  }
+                }
+                .depth-5-frame-1-Ekt {
+                  border: solid 0.1rem #d6d6dd;
+                  border-radius: 1.2rem;
+                  box-sizing: border-box;
+                  flex-shrink: 0;
+                  height: 100%;
+                  margin-right: 1.5328rem;
+                  padding: 2.4rem 2.4rem 2.6rem 2.4rem 2.4rem;
+                  width: 29.8672rem;
+  
+                  .total-jobs-applied-xgt {
+                    color: #1c1c21;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 1.6rem;
+                    font-weight: 500;
+                    line-height: 1.5;
+                    text-align: center;
+                    margin-bottom: 0.8rem;
+                    white-space: nowrap;
+                  }
+                  .item-100000-Hz4 {
+                    color: #1c1c21;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 2.4rem;
+                    font-weight: 700;
+                    letter-spacing: -0.06rem;
+                    line-height: 1.25;
+                    text-align: center;
+                    white-space: nowrap;
+                  }
+                }
+                .depth-5-frame-2-QYt {
+                  border: solid 0.1rem #d6d6dd;
+                  border-radius: 1.2rem;
+                  box-sizing: border-box;
+                  flex-shrink: 0;
+                  height: 100%;
+                  padding: 2.4rem 2.4rem 2.6rem 2.4rem 2.4rem;
+                  width: 29.8672rem;
+  
+                  .total-interviews-completed-LBe {
+                    color: #1c1c21;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 1.6rem;
+                    font-weight: 500;
+                    line-height: 1.5;
+                    text-align: center;
+                    margin-bottom: 0.8rem;
+                    white-space: nowrap;
+                  }
+                  .item-50000-Gb6 {
+                    color: #1c1c21;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 2.4rem;
+                    font-weight: 700;
+                    letter-spacing: -0.06rem;
+                    line-height: 1.25;
+                    text-align: center;
+                    white-space: nowrap;
+                  }
+                }
+              }
+              .depth-4-frame-3-Ne8 {
+                align-items: center;
+                column-gap: 1.2rem;
+                display: flex;
+                flex-shrink: 0;
+  
+                .depth-7-frame-0-6KE {
+                  border-radius: 1.2rem;
+                  flex-shrink: 0;
+                  height: 9.9rem;
+                  object-fit: cover;
+                  vertical-align: top;
+                  width: 17.6rem;
+                }
+                .depth-7-frame-0-ERS {
+                  border-radius: 1.2rem;
+                  flex-shrink: 0;
+                  height: 9.9rem;
+                  object-fit: cover;
+                  vertical-align: top;
+                  width: 17.6rem;
+                }
+                .depth-7-frame-0-Apt {
+                  border-radius: 1.2rem;
+                  flex-shrink: 0;
+                  height: 9.9rem;
+                  object-fit: cover;
+                  vertical-align: top;
+                  width: 17.6rem;
+                }
+                .depth-7-frame-0-unU {
+                  border-radius: 1.2rem;
+                  flex-shrink: 0;
+                  height: 9.9rem;
+                  object-fit: cover;
+                  vertical-align: top;
+                  width: 17.6rem;
+                }
+                .depth-7-frame-0-2cC {
+                  border-radius: 1.2rem;
+                  flex-shrink: 0;
+                  height: 9.9rem;
+                  object-fit: cover;
+                  vertical-align: top;
+                  width: 17.6rem;
+                }
+              }
+            }
+          }
+          .depth-4-frame-0-jFi {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            margin: 0rem 54.05rem 0rem 24.2rem;
+            width: calc(100% - 78.25rem);
+  
+            .depth-5-frame-0-ThW {
+              align-items: center;
+              display: flex;
+              flex-shrink: 0;
+              height: 7.2rem;
+              width: 100%;
+  
+              .auto-group-2dfr-caQ {
+                align-items: flex-start;
+                box-sizing: border-box;
+                display: flex;
+                flex-shrink: 0;
+                height: 100%;
+                padding-right: 9.15rem;
+  
+                .faqs-AM2 {
+                  color: #3d3f49;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  margin-right: 13.85rem;
+                  text-align: center;
+                  white-space: nowrap;
+                }
+                .support-tXv {
+                  color: #3d3f49;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  text-align: center;
+                  white-space: nowrap;
+                }
+              }
+              .auto-group-ck6g-pAg {
+                align-items: center;
+                display: flex;
+                flex-direction: column;
+                flex-shrink: 0;
+                height: 100%;
+  
+                .blog-mbi {
+                  color: #3d3f49;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  margin-bottom: 2.4rem;
+                  text-align: center;
+                  white-space: nowrap;
+                }
+              }
+              .auto-group-mkeg-RAU {
+                align-items: flex-start;
+                box-sizing: border-box;
+                display: flex;
+                flex-shrink: 0;
+                height: 100%;
+                padding-left: 8.75rem;
+  
+                .about-us-mEL {
+                  color: #3d3f49;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  margin-right: 12.5rem;
+                  text-align: center;
+                  white-space: nowrap;
+                }
+                .contact-Gwn {
+                  color: #3d3f49;
+                  flex-shrink: 0;
+                  font-family: Public Sans, 'Source Sans Pro';
+                  font-size: 1.6rem;
+                  font-weight: 400;
+                  line-height: 1.5;
+                  margin-right: 12.5rem;
+                  text-align: center;
+                  white-space: nowrap;
+                }
+                .pricinggalileo-bot-5MW {
+                    color:  #3d3f49;
+                    flex-shrink: 0;
+                    font-family: Public Sans, 'Source Sans Pro';
+                    font-size: 1.6rem;
+                    font-weight: 400;
+                    line-height: 1.5;
+                    text-align: center;
+                    white-space: nowrap;
+                }  
+              }
+            }
+            .auto-group-gvg8-pTW {
+              align-items: center;
+              box-sizing: border-box;
+              display: flex;
+              flex-direction: column;
+              flex-shrink: 0;
+              padding: 2.4rem 27.15rem 0rem 26.2rem;
+              width: 100%;
+  
+              .depth-5-frame-1-9kg {
+                align-items: center;
+                column-gap: 1.6rem;
+                display: flex;
+                flex-shrink: 0;
+                margin: 0rem 8.4rem 2.4rem 8.4rem;
+                width: calc(100% - 16.8rem);
+  
+                .depth-6-frame-0-r9J {
+                  flex-shrink: 0;
+                  height: 2.4rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  width: 2.4rem;
+                }
+                .depth-6-frame-1-Pf2 {
+                  flex-shrink: 0;
+                  height: 2.4rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  width: 2.4rem;
+                }
+                .depth-6-frame-2-LqA {
+                  flex-shrink: 0;
+                  height: 2.4rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  width: 2.4rem;
+                }
+              }
+              .aceprep-all-rights-reserved-gu2 {
+                color: #3d3f49;
+                flex-shrink: 0;
+                font-family: Public Sans, 'Source Sans Pro';
+                font-size: 1.6rem;
+                font-weight: 400;
+                line-height: 1.5;
+                text-align: center;
+                white-space: nowrap;
+              }
+            }
+          }
+        }
+      }
+    }
+    .frame-1-xbe {
+      flex-shrink: 0;
+      height: 10rem;
+      margin: 0rem 48.7rem 0rem 69.3rem;
+      overflow: hidden;
+      position: relative;
+      width: calc(100% - 118rem);
+    }
+  }
+  
